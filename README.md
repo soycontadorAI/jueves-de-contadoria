@@ -7,7 +7,7 @@ Soy **Israel Castro**, contador público y desarrollador de software. Todos los
 jueves a las 11:00 am hablamos de inteligencia artificial aplicada a la
 contaduría en México, sin humo y con la pantalla compartida.
 
-**El canal:** [youtube.com/@todoconta](https://youtube.com/@todoconta)
+**El canal:** [youtube.com/@soycontadorAI](https://www.youtube.com/@soycontadorAI)
 
 ## Descarga gratis
 
@@ -48,6 +48,6 @@ Dicho de otro modo: esto te ahorra las horas de encontrar, no las de decidir.
 
 ## Dónde más encontrarme
 
-- **Canal:** [youtube.com/@todoconta](https://youtube.com/@todoconta)
+- **Canal:** [youtube.com/@soycontadorAI](https://www.youtube.com/@soycontadorAI)
 - **Sitio:** [soycontador.ai](https://soycontador.ai)
 - **Software:** [todoconta.com](https://todoconta.com)
