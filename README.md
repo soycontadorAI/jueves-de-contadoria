@@ -23,6 +23,7 @@ las cinco capas con las que reviso un lote: validación formal contra el Anexo
 | # | Episodio | Qué hay aquí |
 |---|---|---|
 | 07 | [Así piensa la IA que te va a auditar](live-07-asi-piensa-la-ia/) | Teoría de grafos para contadores. El prompt de análisis de red, la base de CFDI de la clase y el mapa dibujado. |
+| 11 | [Carta invitación: encuéntrala tú primero](live-11-carta-invitacion/) | La conciliación de tres vías: facturado, declarado y depositado. Las instrucciones del proyecto de Claude, el prompt y los cuatro CSV de la clase. |
 
 Los episodios anteriores se van subiendo conforme los desempolvo. Si te urge
 uno, pídemelo en los comentarios del video y lo priorizo.
