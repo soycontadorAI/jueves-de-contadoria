@@ -1,0 +1,12 @@
+poliza,fecha,tipo_poliza,uuid,tercero,cuenta,concepto,cargo,abono
+I-001,2026-09-02,Ingreso,E1000000-0000-4000-8000-000000000001,Cliente Alfa SA de CV,401 Ventas,Servicios septiembre,,10000.00
+I-002,2026-09-09,Ingreso,E1000000-0000-4000-8000-000000000003,Cliente Gamma SA de CV,401 Ventas,Servicios,,21000.00
+I-003,2026-09-12,Ingreso,E1000000-0000-4000-8000-000000000004,Cliente Delta SAPI de CV,401 Ventas,Servicios,,5000.00
+I-004,2026-09-15,Ingreso,E1000000-0000-4000-8000-000000000005,Cliente Epsilon SC,401 Ventas,Proyecto,,20000.00
+I-005,2026-09-18,Ingreso,E1000000-0000-4000-8000-000000000006,Cliente Epsilon SC,401 Ventas,Proyecto,,20000.00
+I-006,2026-09-25,Ingreso,,Venta mostrador Zeta,401 Ventas,Venta de contado,,6000.00
+I-007,2026-09-28,Ingreso,E1000000-0000-4000-8000-000000000007,Cliente Alfa SA de CV,401 Ventas,Servicios con descuento,,13500.00
+D-001,2026-09-22,Diario,R1000000-0000-4000-8000-000000000003,Proveedor Uno SA de CV,401 Ventas,Descuento proveedor,2000.00,
+E-001,2026-09-01,Egreso,R1000000-0000-4000-8000-000000000001,Proveedor Uno SA de CV,501 Compras,Compra de mercancia,25000.00,
+E-002,2026-09-10,Egreso,R1000000-0000-4000-8000-000000000002,Papeleria Dos SA de CV,601 Gastos generales,Papeleria,3000.00,
+E-003,2026-10-03,Egreso,R1000000-0000-4000-8000-000000000004,Inmobiliaria Tres SA de CV,601 Gastos generales,Arrendamiento,18000.00,

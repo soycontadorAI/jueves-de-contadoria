@@ -1,0 +1,5 @@
+uuid,fecha_emision,tipo,emisor,concepto,periodo_de_la_operacion,subtotal,iva,total,estatus,tipo_relacion,uuid_relacionado
+R1000000-0000-4000-8000-000000000001,2026-09-01,I,Proveedor Uno SA de CV,Compra de mercancia,2026-09,25000.00,4000.00,29000.00,Vigente,,
+R1000000-0000-4000-8000-000000000002,2026-09-10,I,Papeleria Dos SA de CV,Papeleria,2026-09,3000.00,480.00,3480.00,Vigente,,
+R1000000-0000-4000-8000-000000000003,2026-09-22,E,Proveedor Uno SA de CV,Descuento por pronto pago,2026-09,2000.00,320.00,2320.00,Vigente,01,R1000000-0000-4000-8000-000000000001
+R1000000-0000-4000-8000-000000000004,2026-10-03,I,Inmobiliaria Tres SA de CV,Arrendamiento de septiembre 2026,2026-09,18000.00,2880.00,20880.00,Vigente,,
