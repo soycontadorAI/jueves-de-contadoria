@@ -1,0 +1,9 @@
+uuid,fecha_emision,tipo,metodo_pago,forma_pago,emisor_rfc,emisor,concepto,uso_cfdi,subtotal,iva,total,estatus_al_descargar
+R1000000-0000-4000-8000-000000000001,2026-09-03,I,PUE,03 Transferencia,PUN010101AA1,Proveedor Uno SA de CV,Materia prima lote 0923,G01,100000.00,16000.00,116000.00,Vigente
+R1000000-0000-4000-8000-000000000002,2026-09-10,I,PUE,03 Transferencia,PDO010101AA2,Proveedor Dos SC,Servicio de mantenimiento de maquinaria,G03,50000.00,8000.00,58000.00,Vigente
+R1000000-0000-4000-8000-000000000003,2026-09-11,I,PPD,99 Por definir,PTR010101AA3,Proveedor Tres SA de CV,Empaque y embalaje,G01,80000.00,12800.00,92800.00,Vigente
+R1000000-0000-4000-8000-000000000004,2026-09-15,I,PUE,03 Transferencia,PCU010101AA4,Proveedor Cuatro SA de CV,Asesoría comercial,G03,30000.00,4800.00,34800.00,Vigente
+R1000000-0000-4000-8000-000000000005,2026-09-18,I,PUE,03 Transferencia,PCI010101AA5,Proveedor Cinco SA de CV,Refacciones,G01,20000.00,3200.00,23200.00,Vigente
+R1000000-0000-4000-8000-000000000006,2026-09-19,I,PUE,04 Tarjeta de crédito,RES010101AA6,Restaurante Ficticio SA de CV,Consumo de alimentos (fin de semana del socio),G03,5000.00,800.00,5800.00,Vigente
+R1000000-0000-4000-8000-000000000007,2026-09-22,I,PUE,01 Efectivo,PSI010101AA7,Proveedor Siete,Herramienta menor,G03,3000.00,480.00,3480.00,Vigente
+R1000000-0000-4000-8000-000000000008,2026-09-24,I,PUE,03 Transferencia,POC010101AA8,Proveedor Ocho SA de CV,Flete nacional,G03,40000.00,6400.00,46400.00,Vigente
