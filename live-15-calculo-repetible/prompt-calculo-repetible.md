@@ -6,6 +6,8 @@ la serie de noviembre "Cálculos que se fundamentan solos".
 La idea en una línea: **al modelo no le pides el número, le pides el programa
 que lo calcula.** El programa lee la tarifa de un archivo oficial, da el mismo
 resultado cada vez que lo corres y dice en cada renglón de dónde salió.
+Y como el cálculo se piensa una vez y después solo se ejecuta, gasta una
+fracción de los tokens que gastaría pidiéndoselo de cero cada mes.
 
 Necesitas Claude con **"Ejecución de código y creación de archivos"**
 encendido (Configuración, Capacidades).
