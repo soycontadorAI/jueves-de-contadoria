@@ -26,6 +26,7 @@ las cinco capas con las que reviso un lote: validación formal contra el Anexo
 | 11 | [Carta invitación: encuéntrala tú primero](live-11-carta-invitacion/) | La conciliación de tres vías: facturado, declarado y depositado. Las instrucciones del proyecto de Claude, el prompt y los cuatro CSV de la clase. |
 | 12 | [Discrepancia fiscal: complementos de pago vs facturas vs estado de cuenta](live-12-discrepancia-fiscal/) | La skill `conciliacion-pagos` (con su .zip para subirla a Claude) y los tres CSV de la clase: facturas, complementos y estado de cuenta. |
 | 13 | [Errores de CFDI: lo emitido vs lo registrado, y la fecha de operación](live-13-errores-cfdi/) | El prompt de revisión de lote, la misma revisión como skill `revision-de-lote` (con su .zip) y los tres CSV de la clase: CFDI emitidos, recibidos y pólizas. |
+| 14 | [IVA acreditable: revisar antes de que te revisen](live-14-iva-acreditable/) | El prompt del papel de trabajo del IVA acreditable, los cinco CSV de la clase y la guía de Miguel García (MG Fiscal) para documentar una devolución de IVA. |
 
 Los episodios anteriores se van subiendo conforme los desempolvo. Si te urge
 uno, pídemelo en los comentarios del video y lo priorizo.
