@@ -3,8 +3,9 @@
 Clase práctica del 29 de octubre de 2026, preámbulo de la serie de noviembre
 **"Cálculos que se fundamentan solos"**.
 
-Le pides a la IA el ISR de tu nómina y te da un número. ¿Con qué tarifa?
-¿Te va a dar el mismo el mes que entra? La idea del episodio en una línea:
+Le pides a la IA el ISR de tu nómina y te da un número. Hoy, que busca en
+internet, lo más probable es que esté bien. ¿Pero cómo lo compruebas sin
+rehacerlo? ¿Y el mes que entra, otra vez? La idea del episodio en una línea:
 **al modelo no le pides el número, le pides el programa que lo calcula.**
 
 ## Qué hay aquí
